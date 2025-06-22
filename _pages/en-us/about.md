@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the Mechanical Engineering Deparment at Virginia Tech. I am currently working on human-robot interaction and robot learning in the [Collaborative Robotics Lab (Collab)](https://collab.me.vt.edu/) advised by Dr. [Dylan Losey](https://dylanlosey.com/).
+I am a PhD student in the Mechanical Engineering Department at Virginia Tech. I am currently working on human-robot interaction and robot learning in the [Collaborative Robotics Lab (Collab)](https://collab.me.vt.edu/) advised by Dr. [Dylan Losey](https://dylanlosey.com/).
